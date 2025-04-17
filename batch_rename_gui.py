@@ -7,7 +7,7 @@ from uuid import uuid4
 class BatchRenameApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("批量文件重命名工具-YH.2025-04-17")
+        self.root.title("批量文件重命名工具-YH.2025-04-17-grok")
         self.root.geometry("600x550")  # 增加高度以适应新输入框
         self.files = []
         self.directory = ""
