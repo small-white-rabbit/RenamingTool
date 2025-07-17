@@ -1,4 +1,4 @@
-# RenamingTool
+# RenamingTool 【批量重命名工具】---已上传编译版本exe
 
 
 批量重命名工具，由grok工具采用python代码编写
@@ -12,7 +12,7 @@
 3、删除原有文件名中的特定词组
 
 
-操作方法自己尝试，先预览没问题后再进行执行重命名
+操作方法自己尝试，先预览、先预览、先预览、预览后没问题再进行执行重命名
 
 ![image](https://github.com/user-attachments/assets/329bea8c-5fbe-4754-8c23-f116a0312fd7)
 
